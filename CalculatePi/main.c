@@ -4,5 +4,7 @@ int main()
 
     CalculatePi();
 
+    printf("Calculated.\n");
+
     return 0;
 }
